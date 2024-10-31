@@ -1,0 +1,268 @@
+.editor-styles-wrapper .pwp-slide-img,
+.editor-styles-wrapper .pwp-block p a,
+.editor-styles-wrapper .pwp-block .pwp-title a {
+	pointer-events: none;
+	cursor: default;
+}
+.editor-styles-wrapper .pwp-portfolio-link {
+	pointer-events: none;
+}
+.components-circular-option-picker .components-circular-option-picker__custom-clear-wrapper {
+	margin-top: 0;
+}
+.pwp-setup.components-placeholder {
+	align-items: center;
+	padding: 24px;
+	box-sizing: border-box;
+}
+.pwp-setup p,
+.pwp-setup h4,
+.pwp-setup div,
+.pwp-setup select {
+	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif !important;
+}
+.pwp-setup select {
+	height: auto !important;
+}
+.pwp-setup select + span {
+	display: flex;
+}
+.pwp-setup-header {
+	display: flex !important;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
+.pwp-setup h4.pwp-setup-title {
+	margin: 0px;
+}
+.pwp-setup p.pwp-setup-description {
+	font-size: 1rem;
+	margin: 0px 0px 12px 0px;
+}
+.pwp-setup .components-placeholder__fieldset {
+	/* display: flex; */
+	justify-content: center;
+	max-width: 360px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pwp-setup .components-placeholder__label {
+	align-self: center;
+	margin-bottom: 0px;
+}
+.pwp-setup .components-base-control,
+.pwp-setup label.components-base-control__label {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+.pwp-setup-icon {
+	margin: 0px auto 0px;
+}
+.pwp-setup p.components-base-control__help {
+	margin-top: 0px;
+	margin-bottom: 18px;
+}
+.pwp-dropdown {
+	height: auto !important;
+	width: 100%;
+}
+.pwp-setup .pwp-dropdown input[type="text"] {
+	margin-left: auto;
+	margin-right: auto;
+}
+.pwp-dropdown option {
+	padding: 4px 8px;
+	margin: 4px 0px;
+}
+.pwp-dropdown .components-input-control__suffix svg {
+	height: 100%;
+}
+.pwp-multi-select select {
+	min-height: 140px !important;
+	overflow: auto !important;
+}
+.pwp-multi-select input[type='checkbox'] {
+	vertical-align: middle !important;
+}
+.pwp-multi-select .components-base-control__field ul {
+	padding: 8px !important;
+    border: 1px solid #8c8f94;
+    border-radius: 3px;
+    max-height: 140px;
+    overflow: auto;
+}
+.pwp-multi-select .components-base-control__field ul li {
+	margin-top: 0;
+	margin-bottom: 6px;
+	list-style: none;
+}
+.pwp-multi-select .components-base-control__field ul li:last-child,
+.pwp-multi-select .components-base-control__field ul li:last-child .components-base-control__field {
+	margin-bottom: 0px;
+}
+.pwp-multi-select .components-input-control__suffix {
+	display: none;
+}
+.pwp-multi-select ::-webkit-scrollbar {
+	-webkit-overflow-scrolling: auto;
+	-webkit-appearance: none;
+	width: 7px;
+}
+.pwp-multi-select ::-webkit-scrollbar-thumb {
+	border-radius: 4px;
+	background-color: rgba(0, 0, 0, .5);
+	box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+}
+.pwp-select-list {
+	padding: 12px;
+	margin: 12px auto;
+	max-height: 240px;
+	max-width: 480px;
+	text-align: left;
+	overflow-x: hidden;
+	overflow-y: auto;
+	border: 1px solid #dddddd;
+	border-radius: 3px;
+}
+.pwp-setup .pwp-select-list .components-base-control {
+	text-align: left;
+}
+.pwp-checkbox.components-base-control {
+	margin-bottom: 0px;
+}
+.pwp-edit-menu {
+	display: block;
+	margin-top: -18px;
+	margin-bottom: 24px;
+}
+.pwp-setup .pwp-setup-form {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 12px 0px 24px 0px;
+}
+.pwp-setup .pwp-setup-form .components-button {
+	margin-left: 6px;
+}
+.pwp-setup .components-checkbox-control__input-container {
+	display: inline-block;
+}
+.edit-button-icon {
+	background: white;
+	border-top: 1px solid #b5bcc2;
+	border-right: 1px solid #b5bcc2;
+}
+.pwp-media-upload-image {
+	display: block;
+	background: #f4f4f4;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 6px;
+}
+.pwp-media-upload-image img,
+.pwp-media-upload-control img {
+	max-width: 100%;
+}
+.pwp-media-upload-control .components-button {
+	margin-right: 6px;
+}
+.pwp-media-upload-control.pwp-media-empty {
+	background: #f4f4f4;
+	text-align: center;
+	padding: 24px;
+	box-sizing: border-box;
+	border: 1px dashed #cccccc;
+}
+.pwp-media-upload-control.pwp-media-empty .components-button {
+	margin: 0px auto;
+}
+.pwp-layout-padding {
+	display: flex;
+	flex-wrap: wrap;
+}
+.pwp-layout-padding .components-base-control {
+	width: 50%;
+}
+.pwp-layout-padding .components-base-control:nth-child(odd) {
+	padding-right: 6px;
+}
+.pwp-layout-padding .components-base-control:nth-child(even) {
+	padding-left: 6px;
+}
+.pwp-repeater-field {
+	display: flex;
+	width: 100%;
+	margin-bottom: 18px;
+}
+.pwp-repeater-field .pwp-repeater-field-delete {
+	align-self: flex-end;
+	max-height: 30px;
+	min-width: 30px;
+	margin-left: 6px;
+	padding: 0px;
+}
+.pwp-repeater-field .pwp-repeater-field-delete .dashicon {
+	margin-left: auto;
+	margin-right: auto;
+}
+.pwp-repeater-field .pwp-repeater-field-url,
+.pwp-repeater-field .pwp-repeater-field-url .components-base-control__field {
+	width: 100%;
+	margin-bottom: 0px;
+}
+.pwp-color-control .components-color-picker,
+.pwp-color-control .components-color-picker .react-colorful,
+.pwp-color-control .components-color-picker .react-colorful__hue,
+.pwp-color-control .components-color-picker .react-colorful__alpha {
+	width: 100%;
+}
+.pwp-color-control .component-color-indicator {
+	float: right;
+}
+.pwp-color-control .components-color-picker__body {
+	padding: 16px 0px 12px;
+}
+.pwp-color-control .components-color-picker__inputs-wrapper .components-base-control,
+.pwp-color-control .components-color-picker__inputs-wrapper .components-base-control:last-child {
+	margin-bottom: 0px;
+}
+.pwp-color-control .components-base-control__label {
+	display: block;
+	margin-bottom: 12px;
+}
+.pwp-toolbar-button.has-icon .dashicon {
+	margin: 0px auto;
+}
+.components-button.add-row {
+	display: flex;
+}
+.components-button.add-row .dashicon {
+	margin-top: 2px;
+	margin-right: 4px;
+}
+.pwp-secondary-panel.components-panel__body {
+	padding: 0px 16px;
+	border: 1px solid #e0e0e0;
+}
+.pwp-secondary-panel.components-panel__body .components-base-control__label {
+	display: block;
+	margin-bottom: 6px;
+}
+.pwp-secondary-panel.components-panel__body > .components-panel__body-title {
+	margin-left: -16px;
+	margin-right: -16px;
+}
+.pwp-secondary-panel.components-panel__body.is-opened > .components-panel__body-title {
+	margin-top: 0px;
+}
+.pwp-secondary-panel .components-panel__body-toggle.components-button:focus {
+	border: none;
+	outline: none;
+	box-shadow: none;
+}
+.pwp-secondary-panel .components-color-picker__inputs-wrapper {
+	min-width: auto;
+}

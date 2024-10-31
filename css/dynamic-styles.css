@@ -1,0 +1,61 @@
+/* Global styles for the portfolio block */
+.pwp-portfolio-item {
+    background-color: var(--pwp-bg-color, #fff); /* Default to white */
+    border-radius: var(--pwp-border-radius, 0px);
+    border-width: var(--pwp-border-width, 1px);
+    border-color: var(--pwp-border-color, #ccc);
+    border-style: solid;
+    box-shadow: var(--pwp-shadow, none);
+}
+
+/* Specific styles for titles and buttons */
+.pwp-portfolio-item .pwp-content {
+	padding: var(--pwp-padding-vertical, 16px) var(--pwp-padding-horizontal, 16px);
+}
+.pwp-title {
+    font-size: var(--pwp-heading-size, 24px);
+}
+.pwp-excerpt {
+    font-size: var(--pwp-body-size, 16px);
+}
+.pwp-categories {
+    font-size: var(--pwp-category-size, 14px);
+}
+.wp-block-button__link {
+    color: var(--pwp-button-color, #000);
+    background-color: var(--pwp-button-bg, #fff);
+    background-image: var(--pwp-button-gradient, none);
+    border-color: var(--pwp-button-bg, #fff);
+}
+
+/* Layout adjustments */
+.pwp-column {
+    margin-bottom: var(--pwp-gutter-width, 24px);
+}
+.pwp-masonry-off .pwp-masonry-container {
+	margin-left: calc(var(--pwp-gutter-width, 24px) / -2);
+	margin-right: calc(var(--pwp-gutter-width, 24px) / -2);
+}
+.pwp-masonry-off .pwp-masonry-container .pwp-portfolio-item {
+    margin-right: calc(var(--pwp-gutter-width, 24px) / 2);
+    margin-left: calc(var(--pwp-gutter-width, 24px) / 2);
+}
+
+.pwp-grid-spacer {
+	width: var(--pwp-gutter-width, 24px);
+}
+.pwp-masonry-wrapper.pwp-columns-2 {
+	width: calc(50% - ( var(--pwp-gutter-width, 24px) * 1 / 2 ));
+}
+.pwp-masonry-wrapper.pwp-columns-3 {
+	width: calc(33.33% - ( var(--pwp-gutter-width, 24px) * 2 / 3 ));
+}
+.pwp-masonry-wrapper.pwp-columns-4 {
+	width: calc(25% - ( var(--pwp-gutter-width, 24px) * 3 / 4 ));
+}
+.pwp-masonry-wrapper.pwp-columns-5 {
+	width: calc(20% - ( var(--pwp-gutter-width, 24px) * 4 / 5 ));
+}
+.pwp-masonry-wrapper.pwp-columns-6 {
+	width: calc(16.66% - ( var(--pwp-gutter-width, 24px) * 5 / 6 ));
+}

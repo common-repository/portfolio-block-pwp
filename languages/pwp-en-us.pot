@@ -1,0 +1,437 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio Block PWP\n"
+"POT-Creation-Date: 2024-02-23 09:56-0500\n"
+"PO-Revision-Date: 2024-02-23 09:55-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: portfolio-block-pwp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/pwp-welcome-page.php:25
+msgid "PortfolioWP Portfolio Block"
+msgstr ""
+
+#: admin/pwp-welcome-page.php:27
+msgid "Howdy "
+msgstr ""
+
+#: admin/pwp-welcome-page.php:27
+msgid ""
+", you're moments away from creating awesome portfolios on any page of your "
+"website!"
+msgstr ""
+
+#: admin/pwp-welcome-page.php:29
+#, php-format
+msgid ""
+"Enter your email to receive important updates and information from <a "
+"href=\"%1$s\" target=\"_blank\">PortfolioWP</a>."
+msgstr ""
+
+#: admin/pwp-welcome-page.php:62
+msgid "Getting Started"
+msgstr ""
+
+#: admin/pwp-welcome-page.php:63
+msgid ""
+"Review our guide to using the simple PortfolioWP Portfolio Block plugin."
+msgstr ""
+
+#: admin/pwp-welcome-page.php:74
+msgid "Support Forums"
+msgstr ""
+
+#: admin/pwp-welcome-page.php:75
+msgid "Have a question or found a bug? Let us know in the support forum."
+msgstr ""
+
+#: admin/pwp-welcome-page.php:87
+msgid "Premium Patterns"
+msgstr ""
+
+#: admin/pwp-welcome-page.php:88
+msgid ""
+"Go pro to get the awesome PortfolioWP Pro Theme with premium patterns for "
+"creating dynamic portfolios."
+msgstr ""
+
+#: blocks/portfolio-block.js:27
+msgid "White"
+msgstr ""
+
+#: blocks/portfolio-block.js:28
+msgid "Black"
+msgstr ""
+
+#: blocks/portfolio-block.js:29
+msgid "Light Gray"
+msgstr ""
+
+#: blocks/portfolio-block.js:30
+msgid "Medium Gray"
+msgstr ""
+
+#: blocks/portfolio-block.js:31
+msgid "Brown"
+msgstr ""
+
+#: blocks/portfolio-block.js:32
+msgid "Red"
+msgstr ""
+
+#: blocks/portfolio-block.js:33
+msgid "Blue"
+msgstr ""
+
+#: blocks/portfolio-block.js:34
+msgid "Green"
+msgstr ""
+
+#: blocks/portfolio-block.js:35
+msgid "Pink"
+msgstr ""
+
+#: blocks/portfolio-block.js:36
+msgid "Teal"
+msgstr ""
+
+#: blocks/portfolio-block.js:37
+msgid "Gold"
+msgstr ""
+
+#: blocks/portfolio-block.js:38
+msgid "Purple"
+msgstr ""
+
+#: blocks/portfolio-block.js:73
+msgid "Minimal"
+msgstr ""
+
+#: blocks/portfolio-block.js:74
+msgid "Modern"
+msgstr ""
+
+#: blocks/portfolio-block.js:75
+msgid "Rounded"
+msgstr ""
+
+#: blocks/portfolio-block.js:76
+msgid "Bordered"
+msgstr ""
+
+#: blocks/portfolio-block.js:79
+msgid "Ascending"
+msgstr ""
+
+#: blocks/portfolio-block.js:80
+msgid "Descending"
+msgstr ""
+
+#: blocks/portfolio-block.js:83
+msgid "Content Overlay"
+msgstr ""
+
+#: blocks/portfolio-block.js:84
+msgid "Content Below Image"
+msgstr ""
+
+#: blocks/portfolio-block.js:85
+msgid "Content Above Image"
+msgstr ""
+
+#: blocks/portfolio-block.js:88
+msgid "Heading 1"
+msgstr ""
+
+#: blocks/portfolio-block.js:89
+msgid "Heading 2"
+msgstr ""
+
+#: blocks/portfolio-block.js:90
+msgid "Heading 3"
+msgstr ""
+
+#: blocks/portfolio-block.js:91
+msgid "Heading 4"
+msgstr ""
+
+#: blocks/portfolio-block.js:92
+msgid "Heading 5"
+msgstr ""
+
+#: blocks/portfolio-block.js:93
+msgid "Heading 6"
+msgstr ""
+
+#: blocks/portfolio-block.js:143 blocks/portfolio-block.js:487
+msgid "Portfolio"
+msgstr ""
+
+#: blocks/portfolio-block.js:144
+msgid "Display a group of posts as a portfolio"
+msgstr ""
+
+#: blocks/portfolio-block.js:351
+msgid "Choose Post Type"
+msgstr ""
+
+#: blocks/portfolio-block.js:367
+msgid "Select a Post Type"
+msgstr ""
+
+#: blocks/portfolio-block.js:376
+msgid "Choose a Taxonomy"
+msgstr ""
+
+#: blocks/portfolio-block.js:383
+msgid "Select a Taxonomy"
+msgstr ""
+
+#: blocks/portfolio-block.js:393
+msgid "Select a Category"
+msgstr ""
+
+#: blocks/portfolio-block.js:411
+msgid "Hold \"Control\" or \"Command\" to select multiple options."
+msgstr ""
+
+#: blocks/portfolio-block.js:494
+msgid "Display a group of posts as a portfolio."
+msgstr ""
+
+#: blocks/portfolio-block.js:506 blocks/portfolio-block.js:533
+msgid "Done"
+msgstr ""
+
+#: blocks/portfolio-block.js:545
+msgid "Settings"
+msgstr ""
+
+#: blocks/portfolio-block.js:548
+msgid "Portfolio Style"
+msgstr ""
+
+#: blocks/portfolio-block.js:554
+msgid "Portfolio Layout"
+msgstr ""
+
+#: blocks/portfolio-block.js:560
+msgid "Portfolio Order"
+msgstr ""
+
+#: blocks/portfolio-block.js:566
+msgid "Randomize Order"
+msgstr ""
+
+#: blocks/portfolio-block.js:571
+msgid "Maximum Number Posts"
+msgstr ""
+
+#: blocks/portfolio-block.js:579
+msgid "Offset Posts"
+msgstr ""
+
+#: blocks/portfolio-block.js:589
+msgid "Typography"
+msgstr ""
+
+#: blocks/portfolio-block.js:592
+msgid "Portfolio Heading"
+msgstr ""
+
+#: blocks/portfolio-block.js:599
+msgid "Change font size for portfolio heading."
+msgstr ""
+
+#: blocks/portfolio-block.js:602
+msgid "Portfolio Heading Size"
+msgstr ""
+
+#: blocks/portfolio-block.js:611
+msgid "Change font size for portfolio excerpt."
+msgstr ""
+
+#: blocks/portfolio-block.js:614
+msgid "Portfolio Excerpt Size"
+msgstr ""
+
+#: blocks/portfolio-block.js:624
+msgid "Display"
+msgstr ""
+
+#: blocks/portfolio-block.js:629
+msgid "Filter Portfolio By Taxonomy"
+msgstr ""
+
+#: blocks/portfolio-block.js:635
+msgid "Filter Search Field"
+msgstr ""
+
+#: blocks/portfolio-block.js:641
+msgid "Portfolio Title"
+msgstr ""
+
+#: blocks/portfolio-block.js:643
+msgid "The portfolio title is visible."
+msgstr ""
+
+#: blocks/portfolio-block.js:647
+msgid "Portfolio Categories"
+msgstr ""
+
+#: blocks/portfolio-block.js:649
+msgid "The portfolio categories are visible."
+msgstr ""
+
+#: blocks/portfolio-block.js:653
+msgid "Portfolio Excerpt"
+msgstr ""
+
+#: blocks/portfolio-block.js:655
+msgid "The portfolio excerpt is visible."
+msgstr ""
+
+#: blocks/portfolio-block.js:659
+msgid "Pinterest Button"
+msgstr ""
+
+#: blocks/portfolio-block.js:661
+msgid "The Pinterest Pin It button is visible."
+msgstr ""
+
+#: blocks/portfolio-block.js:665
+msgid "Portfolio Link"
+msgstr ""
+
+#: blocks/portfolio-block.js:667
+msgid "The portfolio image links to post."
+msgstr ""
+
+#: blocks/portfolio-block.js:671
+msgid "Show Content On Hover"
+msgstr ""
+
+#: blocks/portfolio-block.js:673
+msgid "Content is only visible on hover."
+msgstr ""
+
+#: blocks/portfolio-block.js:677
+msgid "Portfolio Pagination"
+msgstr ""
+
+#: blocks/portfolio-block.js:679
+msgid "The portfolio pagination is visible."
+msgstr ""
+
+#: blocks/portfolio-block.js:685
+msgid "Layout"
+msgstr ""
+
+#: blocks/portfolio-block.js:690
+msgid "Masonry Layout"
+msgstr ""
+
+#: blocks/portfolio-block.js:695
+msgid "Columns"
+msgstr ""
+
+#: blocks/portfolio-block.js:702
+msgid "Gutter Width"
+msgstr ""
+
+#: blocks/portfolio-block.js:710
+msgid "Colors"
+msgstr ""
+
+#: blocks/portfolio-block.js:718
+msgid "Title Color"
+msgstr ""
+
+#: blocks/portfolio-block.js:724
+msgid "Excerpt Color"
+msgstr ""
+
+#: blocks/portfolio-block.js:730
+msgid "Pin Icon Color"
+msgstr ""
+
+#: blocks/portfolio-block.js:737
+msgid "Button Text Color"
+msgstr ""
+
+#: blocks/portfolio-block.js:744
+msgid "Button Background"
+msgstr ""
+
+#: blocks/portfolio-block.js:755
+msgid "Hover Overlay Background"
+msgstr ""
+
+#: blocks/portfolio-block.js:762
+msgid "Hover Overlay Opacity"
+msgstr ""
+
+#: classes/class-pwp-portfolio.php:473
+#, php-format
+msgid "View all projects in %s"
+msgstr ""
+
+#: classes/class-pwp-portfolio.php:484
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: classes/class-pwp-portfolio.php:554
+msgid "Previous Page"
+msgstr ""
+
+#: classes/class-pwp-portfolio.php:555
+msgid "Next Page"
+msgstr ""
+
+#: portfolio-block-pwp.php:88
+msgid "PortfolioWP Blocks"
+msgstr ""
+
+#: portfolio-block-pwp.php:193 portfolio-block-pwp.php:194
+msgid "Portfolio Block"
+msgstr ""
+
+#: portfolio-block-pwp.php:206
+msgid "Upgrade"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Portfolio Block PWP"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://portfoliowp.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A WordPress Portfolio Block for the Gutenberg and Full Site editor. The "
+"block displays a selected post type in a masonry style portfolio layout with "
+"filterable categories. Additionally, options are included for changing "
+"colors, font sizes, layouts, styles, columns, and more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PortfolioWP"
+msgstr ""

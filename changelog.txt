@@ -1,0 +1,36 @@
+*** Portfolio Block Changelog ***
+
+2024-10-25 - Version 1.2.3
+* Bumping version to test WP.org asset deployment
+
+2024-10-25 - Version 1.2.2
+* Bumping version to test WP.org deployment
+
+2024-10-23 - Version 1.2.1
+* Updated plugin url constant to use plugin_dir_url
+* Fixed escaping for attributes
+* Updated GPL licensing to v3
+
+2024-10-17 - Version 1.2
+* WP.org review updates
+* Renamed plugin folder
+* Updated function prefixes
+
+2024-10-02 - Version 1.1.1
+* WP.org review updates
+* Moved dynamic styles to dynamic-styles.css and used CSS variables
+* Updated text domain to current assigned slug
+* Increased character length of prefixes
+* Imporoved masonry/isotope handling in block editor
+* General cleanup
+
+2024-08-22 - Version 1.1.0
+* Added license checks for premium options
+* Moved style options into style tab group
+* Added additional style options for borders and shadows
+* Added setup options to block options settings panel
+* Removed legacy style preset options
+* Changed taxonomy selection to checkboxes
+* Added fallback in event category is not selected
+* Re-organized options
+* Style fixes
